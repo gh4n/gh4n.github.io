@@ -12,10 +12,9 @@ sass:
   sass_dir: _scss
 
 # bio
-header: Louie
+header: Grace Han 
 desc: >
-  A Jekyll theme (that looks awesome). Louie is free, lightweight,
-  and customizable as a blog, archive, or portfolio.
+  Personal Blog of Grace Han
 
 # posts
 date_format: "%Y"
