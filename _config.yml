@@ -3,10 +3,7 @@ title: Grace Han
 baseurl: ""
 url: ""
 favicon: "/assets/sample/ico.png"
-g_analytics: UA-12345678-1
-
-
-
+g_analytics:
 
 sass:
   sass_dir: _sass
@@ -18,9 +15,9 @@ desc: >
 
 # posts
 date_format: "%Y"
-post_title: Story
-post_date: Year
-post_cat: Genre
+post_title: Post
+post_date: Date
+post_cat: Category
 
 # post detail
 prev-next: true
